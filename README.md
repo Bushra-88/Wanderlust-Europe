@@ -29,3 +29,4 @@
 - **HTML5**: For the structure and core content of the webpages.
 - **CSS3**: For styling the application, including responsiveness and interactive effects.
 - **JavaScript**: For functionality, including dynamic content rendering and search/filter features.
+>The project hosted on[Netlify](https://wonderlust-eroupa.netlify.app/)
