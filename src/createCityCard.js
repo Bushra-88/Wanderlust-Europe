@@ -5,7 +5,7 @@ export function createCityCard(city) {
   const cityImg = document.createElement("div");
   cityImg.className = "city-img";
   const img = document.createElement("img");
-  img.src = `assets/images/${city.image}`;
+  img.src = `/assets/images/${city.image}`;
   img.alt = city.name;
   cityImg.appendChild(img);
 
