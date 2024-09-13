@@ -5,7 +5,7 @@ function buildPage(collection) {
   header.innerHTML = `
     <div class="header">
       <div class="airplane-img">
-        <img src="/assets/images/airplane1.jpg" alt="airplane's windows that shows the city" id="airplane">
+        <img src="/public/assets/images/airplane1.jpg" alt="airplane's windows that shows the city" id="airplane">
       </div>
       <div class="header-info">
         <h1>Discover Your Next Adventure</h1>
