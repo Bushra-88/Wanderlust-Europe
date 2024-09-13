@@ -1,0 +1,18 @@
+{
+  "name": "dom-collection",
+  "version": "1.0.0",
+  "description": "> Welcome to **Wanderlust Europe**! This web application is designed to ignite your passion for travel by exploring some of the most beautiful and culturally rich cities across Europe. Each city featured provides a glimpse into its unique history, attractions, and experiences waiting to be discovered.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^5.4.5"
+  }
+}
